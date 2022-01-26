@@ -1,4 +1,4 @@
-# Consumindo-API-Front-Back-end ( React )
+# Consumindo-API-Front-e-Back-end ( React )
 
  Referências: 
 https://www.youtube.com/watch?v=vYlz3SmNXQQ&t=1195s
